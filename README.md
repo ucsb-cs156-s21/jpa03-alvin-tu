@@ -2,13 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-alvin-tu
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa03-cgaucho.herokuapp.com
-
-
-On Heroku: https://jpa03-cgaucho.herokuapp.com
+On Heroku: https://jpa03-alvintu.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
